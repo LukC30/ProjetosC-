@@ -1,0 +1,16 @@
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.csprojResolveAssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.MainForm.resources
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.csproj.GenerateResource.Cache
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.exe.config
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.exe
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.pdb
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.exe
+C:\Users\carva\OneDrive\Documentos\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.pdb
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.exe.config
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.exe
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\bin\Debug\joojin.pdb
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.csprojResolveAssemblyReference.cache
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.MainForm.resources
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.csproj.GenerateResource.Cache
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.exe
+C:\Users\Luk\Documents\SharpDevelop Projects\joojin\joojin\obj\Debug\joojin.pdb
